@@ -1,0 +1,2 @@
+install node.js
+npx create-react-app . //period will direct to create app in parent directory
