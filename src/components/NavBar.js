@@ -52,7 +52,7 @@ window.addEventListener('resize', showButton);
                 </li>
                 <li className='nav-item'>
                     <Link to='/sign-up' className='nav-links-mobile' onClick={closeMobileMenu} >
-                    Sign Up
+                    Request Quote
                     </Link>
                 </li>
             </ul>
